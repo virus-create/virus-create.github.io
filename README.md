@@ -1,5 +1,3 @@
-﻿# virus-create.github.io
-<!DOCTYPE html>
 <html>
 <head>
     <title>Image and Audio Example</title>
